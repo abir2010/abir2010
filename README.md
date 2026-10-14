@@ -24,8 +24,8 @@ I am currently preparing for Fall 2027 Ph.D. admissions and actively seeking res
 I am highly open to academic collaborations, research internships, and discussions regarding Fall 2027 Ph.D. positions. 
 
 * **Email:** kaiserabir222@gmail.com
-* **Publications:** [[Link to Google Scholar]](https://scholar.google.com/citations?user=IsTP3xAAAAAJ&hl=en)
-* **Portfolio/CV:** [[https://mkabir,vercel.app]](https://mkabir.vercel.app/)
+* **Publications:** [[Google Scholar]](https://scholar.google.com/citations?user=IsTP3xAAAAAJ&hl=en)
+* **Portfolio/CV:** [[Portfolio]](https://mkabir.vercel.app/)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=abir2010&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
