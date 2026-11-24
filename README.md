@@ -1,7 +1,7 @@
 # M. K. Abir
 *Computer Science Researcher | Prospective Ph.D. Student (Fall 2027)*
 
-I am a Computer Science graduate from the International Islamic University Chittagong (B.Sc., CGPA 3.59/4.00, Oct 2026). My research lies at the intersection of **Computer Vision, Multimodal Generative AI, and Structured Representation Learning**. I am deeply interested in building controllable generative pipelines, multi-modal feature fusion, and mathematically constraining complex AI architectures to ensure reliable, interpretable outputs. 
+I am a Computer Science graduate from the International Islamic University Chittagong (B.Sc., CGPA 3.60/4.00, Oct 2026). My research lies at the intersection of **Computer Vision, Multimodal Generative AI, and Structured Representation Learning**. I am deeply interested in building controllable generative pipelines, multi-modal feature fusion, and mathematically constraining complex AI architectures to ensure reliable, interpretable outputs. 
 
 I am currently preparing for Fall 2027 Ph.D. admissions and actively seeking research opportunities in Computer Vision, Medical AI, and Spatio-Temporal Modeling.
 
